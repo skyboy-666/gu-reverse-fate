@@ -1,4 +1,12 @@
-# vinext-starter
+# 蛊界：逆命——月兰田疑云
+
+一款围绕情报调查、蛊虫编组、三阶段炼蛊与多结局抉择制作的非官方同人玩法原型。
+
+## GitHub Pages
+
+运行 `npm run build:pages` 会生成可直接部署到 GitHub Pages 的 `docs` 目录。站点基础路径为 `/gu-reverse-fate/`。
+
+## 原项目说明
 
 A clean full-stack starter running on
 [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
